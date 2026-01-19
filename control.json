@@ -1,0 +1,19 @@
+{
+  "app_enabled": true,
+  "min_version": "2.5.0",
+  "settings": {
+    "notify_before_days": [7, 3, 1]
+  },
+  "users": {
+    "admin": {
+      "active": true,
+      "role": "admin",
+      "expires_at": "2024-12-31T23:59:59.000Z"
+    },
+    "user1": {
+      "active": true,
+      "role": "user",
+      "expires_at": "2024-10-31T23:59:59.000Z"
+    }
+  }
+}
