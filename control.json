@@ -9,26 +9,19 @@
       "active": true,
       "role": "admin",
       "expires_at": "2026-12-31T23:59:59.000Z",
-      "password_hash":949520"
+      "password": "949520"
     },
-    "yonetici": {
+    "alperen": {
       "active": true,
       "role": "admin",
-      "expires_at": "2024-12-31T23:59:59.000Z",
-      "password_hash": "$2b$10$EixZaYVK1fsbw1ZfbX3OXePaWxn96p36WQoeG6Lruj3vjPGga31lW"
+      "expires_at": "2025-12-31T23:59:59.000Z",
+      "password": "123456"
     },
-    "user1": {
+    "test": {
       "active": true,
       "role": "user",
-      "expires_at": "2024-10-31T23:59:59.000Z",
-      "password_hash": "$2b$10$EixZaYVK1fsbw1ZfbX3OXePaWxn96p36WQoeG6Lruj3vjPGga31lW"
-    },
-    "user2": {
-      "active": false,
-      "role": "user",
-      "expires_at": "2024-09-30T23:59:59.000Z",
-      "password_hash": "$2b$10$EixZaYVK1fsbw1ZfbX3OXePaWxn96p36WQoeG6Lruj3vjPGga31lW"
+      "expires_at": "2024-12-31T23:59:59.000Z",
+      "password": "test123"
     }
   }
 }
-
