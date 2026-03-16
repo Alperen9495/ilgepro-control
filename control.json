@@ -17,11 +17,11 @@
       "expires_at": "2025-12-31T23:59:59.000Z",
       "password": "123456"
     },
-    "test": {
+    "sgtactical": {
       "active": true,
       "role": "user",
       "expires_at": "2024-12-31T23:59:59.000Z",
-      "password": "test123"
+      "password": "segül18*."
     }
   }
 }
